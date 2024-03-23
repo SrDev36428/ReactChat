@@ -2,7 +2,6 @@
 # ReactChat
 
 This project is a AFF.
-AFF stands for Assistant for Freelancer.
 This site is a last company local site.
 It is secret because this is local business.
 So, I published Chat page of AFF.
